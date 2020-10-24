@@ -1,0 +1,21 @@
+#top-text {
+  font-family: Impact;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  -webkit-text-stroke: 1px black;
+}
+
+#bottom-text {
+  font-family: Impact;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  -webkit-text-stroke: 1px black;
+}
