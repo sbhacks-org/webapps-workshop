@@ -1,5 +1,5 @@
 # SB Hacks Intro to Web Apps Workshop
-**Workshop date:** November 5th, 2020
+**Workshop date:** November 5th, 2020  
 **Hosted by:** Jayleen Li and Bryan Terce from SB Hacks
 
 Join SB Hacks for a introductory workshop on web application development where we will go over the fundamentals of HTML, CSS, and JavaScript! During the workshop we will also teach you how you can build and deploy your own web app! This workshop is intended for those with basic coding knowledge but no experience in web development.
@@ -16,13 +16,17 @@ To find the beginning skeleton HTML, CSS, and JavaScript files, please head over
 
 ## How to run your web app
 
-### 1. Download the code
-*I don't know how to use git/GitHub!*
-No worries, you can download the code by clicking the "Download ZIP" button
- ![Download ZIP from GitHub](https://imgur.com/hcvggPt.png)
 
-*I already know how to use git/Github!*
-Cool! Download the code to your computer with git clone.
+### 1. Download the code
+<details>
+  <summary>I don't know how to use git/GitHub!</summary>
+  No worries, you can download the code by clicking the "Download ZIP" button
+  <img src="https://imgur.com/hcvggPt.png"/> 
+</details>
+<details>
+  <summary>I already know how to use git/Github!</summary>
+  Cool! Download the code to your computer with git clone.
+</details>
 
 ### 2. Run the site
 Open 'index.html' file in the browser of your choice. You can do this by right-clicking on the file and clicking "Open with"
