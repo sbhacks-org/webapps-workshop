@@ -38,6 +38,7 @@ You should see your code in the browser now.
 To see any changes to the HTML, CSS, or JavaScript files, just save and refresh the page in the browser. (You may have to go in incognito mode for JavaScript changes.)
 
 ### 3. Deploying your site on GitHub Pages (Optional)
+*Note you must have your code on GitHub for this step. If you forked the repo your code is already on GitHub. If you downloaded with "Download ZIP," you will need to create a repo and add the files to it. Here's an [external tutorial](https://handsondataviz.org/create-repo.html) on how to do that with using just the GitHub website.*
 Click the 'Settings' Tab on your repository. 
 ![Settings tab](https://imgur.com/CnFWykb.png)
 
