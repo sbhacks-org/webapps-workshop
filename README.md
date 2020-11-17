@@ -6,7 +6,8 @@ Join SB Hacks for a introductory workshop on web application development where w
 
 To find the beginning skeleton HTML, CSS, and JavaScript files, please head over to this [Github repo](https://github.com/sbhacks-org/webapps-workshop-starter).
 
-[Link to Workshop Slides](https://docs.google.com/presentation/d/1bbLWLhqNQmEj77AiCSUEtPqrLTvFxtw1poIZpQdtPbw/edit?usp=sharing)
+[Link to Workshop Slides](https://docs.google.com/presentation/d/1bbLWLhqNQmEj77AiCSUEtPqrLTvFxtw1poIZpQdtPbw/edit?usp=sharing)  
+[Link to Workshop Recording](https://youtu.be/GXZf9KckoKo)
 
 **_Other SB Hacks Events:_**
 
